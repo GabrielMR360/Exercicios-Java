@@ -1,4 +1,4 @@
-package livro;
+package lista01.livro;
 
 import java.util.Scanner;
 

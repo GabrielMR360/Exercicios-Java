@@ -1,4 +1,4 @@
-package veiculo;
+package lista01.veiculo;
 
 public class Veiculo {
     private String modelo;

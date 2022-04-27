@@ -1,4 +1,4 @@
-package funcionario;
+package lista01.funcionario;
 
 import java.util.Scanner;
 

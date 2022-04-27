@@ -1,4 +1,4 @@
-package livro;
+package lista01.livro;
 
 public class Livro {
     private String titulo;

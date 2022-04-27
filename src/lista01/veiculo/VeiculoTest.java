@@ -1,4 +1,4 @@
-package veiculo;
+package lista01.veiculo;
 
 public class VeiculoTest {
     public static void main(String[] args) {
